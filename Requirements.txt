@@ -1,0 +1,5 @@
+Requirements:
+vosk
+ollama
+pyttsx3
+tkinter
