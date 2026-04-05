@@ -1,4 +1,4 @@
-# Offline AI System (Hackathon Winner)
+# Offline AI System 
 
 ## Overview
 A laptop-based offline AI assistant with multi-language support (Hindi, Marathi, English). Designed to work without internet using local speech recognition and LLM.
